@@ -1,0 +1,6 @@
+.vscode
+build
+output
+*.pdf
+*.out
+*.ods
